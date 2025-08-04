@@ -33,6 +33,7 @@ layout: null
         </itunes:owner>
         <itunes:image href="{{ site.logo  | prepend: site.baseurl | prepend: site.url }}" />
 	<itunes:category text="Religion &amp; Spirituality">
+		<itunes:category text="Religion"/>
         </itunes:category>
         <itunes:type>episodic</itunes:type>
         <itunes:explicit>no</itunes:explicit>
