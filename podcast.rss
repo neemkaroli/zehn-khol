@@ -32,7 +32,7 @@ layout: null
             <itunes:email>{{ site.email }}</itunes:email>
         </itunes:owner>
         <itunes:image href="{{ site.logo  | prepend: site.baseurl | prepend: site.url }}" />
-        <itunes:category text="Educational">
+        <itunes:category text="Education">
         </itunes:category>
         <itunes:type>episodic</itunes:type>
         <itunes:explicit>no</itunes:explicit>
