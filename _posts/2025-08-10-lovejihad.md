@@ -6,11 +6,11 @@ keywords:
 - jihad
 - love
 mp3-url:      "/assets/audio/lj2.mp3"
-length: 42923073
+length: 52573333
 season: 1
 episode: 7
 episode-type: full
-duration:   44:42
+duration:   54:46
 explicit:     "false"
 block:        "no"
 layout: podcast
